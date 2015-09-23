@@ -7,7 +7,7 @@ public class Mouse : MonoBehaviour {
     public Text detailText;
 
     Vector3 cameraOffset = new Vector3(-5f, 2.5f, 0);
-	//test update
+	//test update多舒服啊
 	// Update is called once per frame
 	void Update () {
         if (Input.GetMouseButtonDown(0))
