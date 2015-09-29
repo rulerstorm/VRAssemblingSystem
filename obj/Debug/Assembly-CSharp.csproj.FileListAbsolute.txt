@@ -22,3 +22,7 @@ C:\Users\rock\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.xm
 C:\Users\rock\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\rock\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.dll
 C:\Users\rock\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.pdb
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\obj\Debug\Assembly-CSharp.csprojFakesResolveAssemblyReference.cache
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\obj\Debug\Assembly-CSharp.dll
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\obj\Debug\Assembly-CSharp.pdb
