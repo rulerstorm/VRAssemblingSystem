@@ -1,0 +1,131 @@
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.EventHandle 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.EventTrigger 生成存根: 类型包含会导致编译错误的过时成员。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.EventTriggerType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.ExecuteEvents 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.MoveDirection 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.RaycasterManager 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.RaycastResult 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.CoroutineTween.ITweenValue 生成存根: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.CoroutineTween.ColorTween 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.CoroutineTween.FloatTween 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.CoroutineTween.TweenRunner`1 生成存根: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.CanvasUpdate 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.ColorBlock 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.DefaultControls 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.FontUpdateTracker 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Graphic 生成存根: 类型包含会导致编译错误的过时成员。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.GraphicRaycaster 生成存根: method System.Void UnityEngine.EventSystems.BaseRaycaster.Raycast(UnityEngine.EventSystems.PointerEventData eventData, System.Collections.Generic.List`1<UnityEngine.EventSystems.RaycastResult> resultAppendList) unstubbable: 方法是抽象的，因此无法用作存根，方法名称与静态成员冲突。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.GraphicRebuildTracker 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.IGraphicEnabledDisabled 生成存根: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.IMask 生成存根: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.InputField 生成存根: 类型包含会导致编译错误的过时成员。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Mask 生成存根: 类型包含会导致编译错误的过时成员。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.MaskableGraphic 生成存根: 类型包含会导致编译错误的过时成员。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Misc 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Navigation 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.SetPropertyUtility 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.SpriteState 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.StencilMaterial 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Clipping 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.RectangularVertexClipper 生成存根: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.LayoutRebuilder 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.LayoutUtility 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Collections.IndexedSet`1 生成存根: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.ListPool`1 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.ObjectPool`1 生成存根: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.BaseVertexEffect 生成存根: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.IVertexModifier 生成存根: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.EventHandle 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.IEventSystemHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.IPointerEnterHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.IPointerExitHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.IPointerDownHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.IPointerUpHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.IPointerClickHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.IBeginDragHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.IInitializePotentialDragHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.IDragHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.IEndDragHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.IDropHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.IScrollHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.IUpdateSelectedHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.ISelectHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.IDeselectHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.IMoveHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.ISubmitHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.ICancelHandler 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.EventTriggerType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.ExecuteEvents+EventFunction`1 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.MoveDirection 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.RaycasterManager 生成填充码: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.PointerEventData+FramePressState 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.PointerEventData+InputButton 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.PointerInputModule+ButtonState 生成填充码: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.PointerInputModule+MouseState 生成填充码: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.EventSystems.StandaloneInputModule+InputMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.CoroutineTween.ITweenValue 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.CoroutineTween.ColorTween 生成填充码: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.CoroutineTween.FloatTween 生成填充码: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.CoroutineTween.TweenRunner`1 生成填充码: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Button+<OnFinishSubmit>c__Iterator1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.CanvasUpdate 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.ICanvasElement 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Dropdown+<DelayedDestroyDropdownList>c__Iterator2 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Dropdown+<Show>c__AnonStorey6 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Dropdown+DropdownItem 生成填充码: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.GraphicRaycaster+BlockingObjects 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.IGraphicEnabledDisabled 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Image+FillMethod 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Image+Origin180 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Image+Origin360 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Image+Origin90 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Image+OriginHorizontal 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Image+OriginVertical 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Image+Type 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.IMask 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.IMaskable 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.InputField+<CaretBlink>c__Iterator3 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.InputField+<MouseDragOutsideRect>c__Iterator4 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.InputField+CharacterValidation 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.InputField+ContentType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.InputField+EditState 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.InputField+InputType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.InputField+LineType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.InputField+OnValidateInput 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Misc 生成填充码: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Navigation+Mode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Scrollbar+<ClickRepeat>c__Iterator5 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Scrollbar+Axis 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Scrollbar+Direction 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.ScrollRect+MovementType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.ScrollRect+ScrollbarVisibility 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Selectable+SelectionState 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Selectable+Transition 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.SetPropertyUtility 生成填充码: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Slider+Axis 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Slider+Direction 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.StencilMaterial+MatEntry 生成填充码: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Toggle+ToggleTransition 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.IClipper 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.IClippable 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.RectangularVertexClipper 生成填充码: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.AspectRatioFitter+AspectMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.CanvasScaler+ScaleMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.CanvasScaler+ScreenMatchMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.CanvasScaler+Unit 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.ContentSizeFitter+FitMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.GridLayoutGroup+Axis 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.GridLayoutGroup+Constraint 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.GridLayoutGroup+Corner 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.ILayoutElement 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.ILayoutController 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.ILayoutGroup 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.ILayoutSelfController 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.ILayoutIgnorer 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.IMaterialModifier 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.Collections.IndexedSet`1 生成填充码: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.ListPool`1 生成填充码: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.ObjectPool`1 生成填充码: 类型对 exported or assembly(UnityEngine.UI.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.BaseVertexEffect 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.IVertexModifier 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.UI.fakes : warning : 无法为 UnityEngine.UI.IMeshModifier 生成填充码: 类型是一个接口。

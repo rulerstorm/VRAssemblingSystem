@@ -1,0 +1,1067 @@
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AssetBundleCreateRequest 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AssetBundleRequest 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AssetBundle 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AssetBundleManifest 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SendMessageOptions 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.PrimitiveType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Space 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RuntimePlatform 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SystemLanguage 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LogType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DeviceType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SystemInfo 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WaitForSeconds 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WaitForFixedUpdate 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WaitForEndOfFrame 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Coroutine 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ThreadPriority 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Profiler 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CrashReport 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.UnhandledExceptionHandler 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CursorMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CursorLockMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Cursor 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.OcclusionArea 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.OcclusionPortal 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RenderSettings 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.QualitySettings 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextureCompressionQuality 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MeshFilter 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CombineInstance 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Mesh 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.BoneWeight 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Flare 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LensFlare 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Renderer 生成存根: 类型包含会导致编译错误的过时成员。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Projector 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Skybox 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TrailRenderer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LineRenderer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MaterialPropertyBlock 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RenderBufferHelper 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.InternalDrawTextureArguments 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Internal_DrawMeshTRArguments 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Internal_DrawMeshMatrixArguments 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Graphics 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LightmapData 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LightmapsModeLegacy 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LightProbes 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LightmapSettings 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GeometryUtility 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Screen 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SleepTimeout 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GL 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MeshRenderer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.StaticBatchingUtility 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ImageEffectTransformsToLDR 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ImageEffectOpaque 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUITexture 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUILayer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Texture2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Cubemap 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Texture3D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SparseTexture 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RenderTexture 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ReflectionProbe 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LODFadeMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LOD 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LODGroup 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.BoundingSphere 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CullingQueryOptions 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CullingGroupEvent 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CullingGroup 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GradientColorKey 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GradientAlphaKey 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Gradient 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TouchScreenKeyboard_InternalConstructorHelperArguments 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FullScreenMovieControlMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FullScreenMovieScalingMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AndroidActivityIndicatorStyle 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Handheld 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TouchScreenKeyboardType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TouchScreenKeyboard 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Gizmos 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FlareLayer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LayerMask 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LightProbeGroup 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Vector2 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Vector3 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Color 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Color32 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Quaternion 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rect 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Matrix4x4 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Bounds 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Vector4 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Ray 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Ray2D 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Plane 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngineInternal.MathfInternal 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Mathf 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RPCMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ConnectionTesterStatus 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NetworkConnectionError 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NetworkDisconnection 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MasterServerEvent 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NetworkStateSynchronization 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NetworkPeerType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NetworkLogLevel 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NetworkPlayer 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NetworkViewID 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Ping 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NetworkView 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Network 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.BitStream 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RPC 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HostData 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MasterServer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NetworkMessageInfo 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DrivenTransformProperties 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DrivenRectTransformTracker 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RectTransform 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.CommandBuffer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ResourceRequest 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Resources 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RuntimeUndo 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SerializePrivateVariables 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SerializeField 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Security 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DisableBatchingType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Shader 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ShaderVariantCollection 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SortingLayer 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.SphericalHarmonicsL2 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ProceduralProcessorUsage 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ProceduralCacheSize 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ProceduralLoadingBehavior 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ProceduralPropertyType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ProceduralOutputType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ProceduralPropertyDescription 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ProceduralMaterial 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ProceduralTexture 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SpriteAlignment 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SpritePackingMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SpritePackingRotation 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SpriteMeshType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Sprite 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SpriteRenderer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Sprites.DataUtility 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Hash128 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WWW 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WWWForm 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WWWTranscoder 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CacheIndex 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Caching 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.UnityLogWriter 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.UnityString 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.UnityEventQueueSystem 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ColorUtility 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WeakListenerBindings 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NetworkReachability 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Application 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.UserAuthorization 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ApplicationInstallMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ApplicationSandboxType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Camera 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ComputeShader 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ComputeBuffer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Debug 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Display 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NotConvertedAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NotFlashValidatedAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NotRenamedAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TouchPhase 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.IMECompositionMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Touch 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DeviceOrientation 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AccelerationEvent 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Gyroscope 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LocationInfo 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LocationServiceStatus 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LocationService 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Compass 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Input 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HideFlags 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Component 生成存根: 类型包含会导致编译错误的过时成员。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Light 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GameObject 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Time 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Random 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.PlayerPrefsException 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.PlayerPrefs 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.jvalue 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AndroidJNIHelper 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AndroidJNI 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AndroidInput 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Motion 生成存根: 类型包含会导致编译错误的过时成员。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.ADBannerView 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.ADInterstitialAd 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.DeviceGeneration 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.Device 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.ActivityIndicatorStyle 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneSettings 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.CalendarIdentifier 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.CalendarUnit 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.LocalNotification 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.RemoteNotification 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.NotificationType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.NotificationServices 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SamsungTV 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.BillboardAsset 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.BillboardRenderer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Director.DirectorUpdateMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Director.PlayState 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WindZoneMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WindZone 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Advertisements.UnityAdsInternal 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DynamicGI 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngineInternal.LightmapType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngineInternal.GITextureType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngineInternal.GIDebugVisualisation 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ParticleSystemRenderMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ParticleSystemSimulationSpace 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ParticleSystem 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ParticleSystemRenderer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ParticleCollisionEvent 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ParticleSystemExtensionsImpl 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ParticlePhysicsExtensions 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Particle 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.InternalEmitParticleArguments 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ParticleEmitter 生成存根: 类型没有系列可见的构造函数。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.EllipsoidParticleEmitter 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MeshParticleEmitter 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ParticleAnimator 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ParticleRenderMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ParticleRenderer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RigidbodyConstraints 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ForceMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.JointDriveMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.JointProjectionMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WheelFrictionCurve 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SoftJointLimit 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SoftJointLimitSpring 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.JointDrive 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RigidbodyInterpolation 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.JointMotor 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.JointSpring 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.JointLimits 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.PhysicMaterialCombine 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CollisionFlags 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ClothSkinningCoefficient 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.QueryTriggerInteraction 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Physics 生成存根: 类型包含会导致编译错误的过时成员。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WheelHit 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ContactPoint 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rigidbody 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HingeJoint 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SpringJoint 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FixedJoint 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CharacterJoint 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ConfigurableJointMotion 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RotationDriveMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ConfigurableJoint 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ConstantForce 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CollisionDetectionMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.BoxCollider 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SphereCollider 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MeshCollider 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CapsuleCollider 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WheelCollider 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RaycastHit 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.PhysicMaterial 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CharacterController 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ClothSphereColliderPair 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Cloth 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Physics2D 生成存根: 类型包含会导致编译错误的过时成员。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RaycastHit2D 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RigidbodyInterpolation2D 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RigidbodySleepMode2D 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CollisionDetectionMode2D 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ForceMode2D 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ColliderErrorState2D 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RigidbodyConstraints2D 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rigidbody2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CircleCollider2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.BoxCollider2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.EdgeCollider2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.PolygonCollider2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ContactPoint2D 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.JointLimitState2D 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.JointAngleLimits2D 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.JointTranslationLimits2D 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.JointMotor2D 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.JointSuspension2D 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Joint2D 生成存根: 类型包含会导致编译错误的过时成员。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SpringJoint2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DistanceJoint2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HingeJoint2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SliderJoint2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WheelJoint2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.PhysicsMaterial2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ConstantForce2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.EffectorSelection2D 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.EffectorForceMode2D 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AreaEffector2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.PointEffector2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.PlatformEffector2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SurfaceEffector2D 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ObstacleAvoidanceType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NavMeshAgent 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NavMeshHit 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NavMeshTriangulation 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NavMesh 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NavMeshObstacleShape 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NavMeshObstacle 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NavMeshPathStatus 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NavMeshPath 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.OffMeshLinkType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.OffMeshLinkData 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.OffMeshLink 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioSpeakerMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioDataLoadState 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioConfiguration 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioSettings 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioCompressionFormat 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioClipLoadType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioClip 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioVelocityUpdateMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioListener 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FFTWindow 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioRolloffMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioSourceCurveType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioSource 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioReverbPreset 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioReverbZone 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioLowPassFilter 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioHighPassFilter 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioDistortionFilter 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioEchoFilter 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioChorusFilter 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioReverbFilter 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Microphone 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Audio.AudioMixer 生成存根: 类型没有系列可见的构造函数。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Audio.AudioMixerSnapshot 生成存根: 类型没有系列可见的构造函数。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Audio.AudioMixerGroup 生成存根: 类型没有系列可见的构造函数。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MovieTexture 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WebCamFlags 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WebCamDevice 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WebCamTexture 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimationClipPair 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimatorOverrideController 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WrapMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimationEventSource 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimationEvent 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimationClip 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Keyframe 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimationCurve 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.PlayMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.QueueMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimationBlendMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimationPlayMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimationCullingType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Animation 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimationState 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AvatarTarget 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AvatarIKGoal 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AvatarIKHint 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimatorControllerParameterType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TransitionType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimatorRecorderMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimatorClipInfo 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimatorCullingMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimatorUpdateMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimatorStateInfo 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimatorTransitionInfo 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MatchTargetWeightMask 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Animator 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimatorControllerParameter 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimatorUtility 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SkeletonBone 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HumanLimit 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HumanBone 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HumanDescription 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AvatarBuilder 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.BodyDoF 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HeadDoF 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LegDoF 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ArmDoF 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FingerDoF 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DoF 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HumanBodyBones 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HumanBodyPart 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HumanParameter 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Avatar 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HumanTrait 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Director.AnimationClipPlayable 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Director.AnimatorControllerPlayable 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TreePrototype 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DetailRenderMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DetailPrototype 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SplatPrototype 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TreeInstance 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TerrainData 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TerrainChangedFlags 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TerrainRenderFlags 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Terrain 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Tree 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextAlignment 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextAnchor 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HorizontalWrapMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.VerticalWrapMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUIText 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextMesh 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CharacterInfo 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Font 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.UICharInfo 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.UILineInfo 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextGenerator 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RenderMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Canvas 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CanvasGroup 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.UIVertex 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CanvasRenderer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RectTransformUtility 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TerrainCollider 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Event 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.KeyCode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.EventType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.EventModifiers 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ScaleMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUILayoutEntry 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUILayoutGroup 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUIScrollGroup 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUIAspectSizer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUIGridSizer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUIWordWrapSizer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUILayoutOption 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.PlatformSelection 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUISettings 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUISkin 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUIStyleState 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RectOffset 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FontStyle 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ImagePosition 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUIStyle 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextClipping 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ExitGUIException 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FocusType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUIClip 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Internal_DrawArguments 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Internal_DrawWithTextSelectionArguments 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Networking.UnityWebRequest 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Networking.UploadHandler 生成存根: 类型没有系列可见的构造函数。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Networking.UploadHandlerRaw 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Networking.DownloadHandler 生成存根: 类型没有系列可见的构造函数。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Networking.DownloadHandlerBuffer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Networking.DownloadHandlerTexture 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Networking.DownloadHandlerAssetBundle 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.Types.NetworkAccessLevel 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.Types.AppID 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.Types.SourceID 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.Types.NetworkID 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.Types.NodeID 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.Utility 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.NetworkTransport 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.NetworkEventType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.QosType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.NetworkError 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.ReactorModel 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.ConnectionSimulatorConfig 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.ConnectionConfigInternal 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.HostTopologyInternal 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.GlobalConfigInternal 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Advertisements.UnityAdsManager 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Analytics.UnityAnalyticsManager 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 SimpleJson.JsonArray 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 SimpleJson.JsonObject 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 SimpleJson.SimpleJson 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 SimpleJson.IJsonSerializerStrategy 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 SimpleJson.PocoJsonSerializerStrategy 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 SimpleJson.Reflection.ReflectionUtils 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.VR.VRDeviceType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.VR.VRNode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.VR.VRSettings 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.VR.VRDevice 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.VR.InputTracking 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Cloud.Service.CloudServiceType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Cloud.Service.CloudEventFlags 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Cloud.Service.CloudServiceConfig 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Cloud.Service.CloudService 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AndroidJavaException 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AndroidJavaRunnableProxy 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AndroidReflection 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine._AndroidJNIHelper 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AndroidJNISafe 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimationInfo 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WrapperlessIcall 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.IL2CPPStructAlignmentAttribute 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AttributeHelperEngine 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DisallowMultipleComponent 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RequireComponent 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AddComponentMenu 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CreateAssetMenuAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ContextMenu 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ExecuteInEditMode 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HideInInspector 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HelpURLAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MarshallOnlyFirstField 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CastHelper`1 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ClassLibraryInitializer 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SetupCoroutine 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CppIncludeAttribute 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CppDefineAttribute 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CppBodyAttribute 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CppInvokeAttribute 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CppPropertyBodyAttribute 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CppPropertyAttribute 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WritableAttribute 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Resolution 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RenderBuffer 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RenderTargetSetup 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RenderingPath 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TransparencySortMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CameraType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ComputeBufferType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LightType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LightRenderMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LightShadows 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FogMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.QualityLevel 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ShadowProjection 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CameraClearFlags 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DepthTextureMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TexGenMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnisotropicFiltering 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.BlendWeights 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MeshTopology 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SkinQuality 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ColorSpace 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ScreenOrientation 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FilterMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextureWrapMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NPOTSupport 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextureFormat 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CubemapFace 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RenderTextureFormat 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RenderTextureReadWrite 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LightmapsMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MaterialGlobalIlluminationFlags 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.OpaqueSortMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.RenderBufferLoadAction 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.RenderBufferStoreAction 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.BlendMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.BlendOp 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.CompareFunction 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.CullMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ColorWriteMask 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.StencilOp 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.AmbientMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.DefaultReflectionMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ReflectionCubemapCompression 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.CameraEvent 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.LightEvent 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.BuiltinRenderTextureType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.PassType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ShadowCastingMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.GraphicsDeviceType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.RenderTargetIdentifier 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ReflectionProbeUsage 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ReflectionProbeType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ReflectionProbeClearFlags 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ReflectionProbeMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ReflectionProbeBlendInfo 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ReflectionProbeRefreshMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ReflectionProbeTimeSlicingMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUIStateObjects 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.CanBeNullAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.NotNullAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.StringFormatMethodAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.InvokerParameterNameAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.NotifyPropertyChangedInvocatorAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.ContractAnnotationAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.LocalizationRequiredAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.CannotApplyEqualityOperatorAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.BaseTypeRequiredAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.UsedImplicitlyAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.MeansImplicitUseAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.ImplicitUseKindFlags 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.ImplicitUseTargetFlags 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.PublicAPIAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.InstantHandleAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.PureAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.NoEnumerationAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.AssertionMethodAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.LinqTunnelAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SendMouseEvents 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Social 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SocialPlatforms.ActivePlatform 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SocialPlatforms.UserState 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SocialPlatforms.UserScope 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SocialPlatforms.TimeScope 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SocialPlatforms.Range 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RangeAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MultilineAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextAreaAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ColorUsageAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RuntimeInitializeLoadType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ScrollWaitDefinitions 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Types 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SliderState 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SliderHandler 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SharedBetweenAnimatorsAttribute 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SystemClock 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextGenerationSettings 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.StackTraceLogType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.PersistentListenerMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.ArgumentCache 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.BaseInvokableCall 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.InvokableCall 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.InvokableCall`1 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.InvokableCall`2 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.InvokableCall`3 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.InvokableCall`4 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.CachedInvokableCall`1 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityEventCallState 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.PersistentCall 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.PersistentCallGroup 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.InvokableCallList 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityEventBase 生成存根: method UnityEngine.Events.BaseInvokableCall UnityEngine.Events.UnityEventBase.GetDelegate(System.Object target, System.Reflection.MethodInfo theFunction) unstubbable: 方法是抽象的，因此无法用作存根，方法签名类型对于 exported or assembly(UnityEngine.Fakes) or subtype(UnityEventBase in assembly UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityEvent 生成存根: method UnityEngine.Events.BaseInvokableCall UnityEngine.Events.UnityEventBase.GetDelegate(System.Object target, System.Reflection.MethodInfo theFunction) unstubbable: 方法是抽象的，因此无法用作存根，方法签名类型对于 exported or assembly(UnityEngine.Fakes) or subtype(UnityEvent in assembly UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityEvent`1 生成存根: method UnityEngine.Events.BaseInvokableCall UnityEngine.Events.UnityEventBase.GetDelegate(System.Object target, System.Reflection.MethodInfo theFunction) unstubbable: 方法是抽象的，因此无法用作存根，方法签名类型对于 exported or assembly(UnityEngine.Fakes) or subtype(UnityEvent`1 in assembly UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityEvent`2 生成存根: method UnityEngine.Events.BaseInvokableCall UnityEngine.Events.UnityEventBase.GetDelegate(System.Object target, System.Reflection.MethodInfo theFunction) unstubbable: 方法是抽象的，因此无法用作存根，方法签名类型对于 exported or assembly(UnityEngine.Fakes) or subtype(UnityEvent`2 in assembly UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityEvent`3 生成存根: method UnityEngine.Events.BaseInvokableCall UnityEngine.Events.UnityEventBase.GetDelegate(System.Object target, System.Reflection.MethodInfo theFunction) unstubbable: 方法是抽象的，因此无法用作存根，方法签名类型对于 exported or assembly(UnityEngine.Fakes) or subtype(UnityEvent`3 in assembly UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityEvent`4 生成存根: method UnityEngine.Events.BaseInvokableCall UnityEngine.Events.UnityEventBase.GetDelegate(System.Object target, System.Reflection.MethodInfo theFunction) unstubbable: 方法是抽象的，因此无法用作存根，方法签名类型对于 exported or assembly(UnityEngine.Fakes) or subtype(UnityEvent`4 in assembly UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.UserAuthorizationDialog 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Assertions.Assert 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Assertions.AssertionMessageUtil 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Assertions.Comparers.FloatComparer 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Assertions.Must.MustExtensions 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Director.FrameData 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ADBannerView 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ADInterstitialAd 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneGeneration 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhone 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOSActivityIndicatorStyle 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneTouch 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneTouchPhase 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneAccelerationEvent 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneOrientation 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneInput 生成存根: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneScreenOrientation 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneKeyboardType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneKeyboard 生成存根: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneMovieControlMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneMovieScalingMode 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneNetworkReachability 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CalendarIdentifier 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CalendarUnit 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LocalNotification 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RemoteNotification 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RemoteNotificationType 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NotificationServices 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Serialization.ListSerializationSurrogate 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Serialization.DictionarySerializationSurrogate`2 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.InternalStaticBatchingUtility 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MeshSubsetCombineUtility 生成存根: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEditor.Advertisements.AdvertisementSettings 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngineInternal.APIUpdaterRuntimeServices 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngineInternal.TypeInferenceRules 生成存根: 类型是一个值类型。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngineInternal.NetFxCoreExtensions 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AdvertisingIdentifierCallback 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngineInternal.FastCallExceptionHandler 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngineInternal.GetMethodDelegate 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Advertisements.UnityAdsDelegate 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Advertisements.UnityAdsDelegate`2 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AndroidJavaRunnable 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityAction 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityAction`1 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityAction`2 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityAction`3 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityAction`4 生成存根: 类型已密封。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 <PrivateImplementationDetails> 生成存根: 类型不受支持，因为存在内部限制。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SendMessageOptions 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.PrimitiveType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Space 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RuntimePlatform 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SystemLanguage 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LogType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DeviceType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ThreadPriority 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.UnhandledExceptionHandler 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CursorMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CursorLockMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextureCompressionQuality 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RenderBufferHelper 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.InternalDrawTextureArguments 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Internal_DrawMeshTRArguments 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Internal_DrawMeshMatrixArguments 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LightmapsModeLegacy 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LODFadeMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CullingQueryOptions 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CullingGroup+StateChanged 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TouchScreenKeyboard_InternalConstructorHelperArguments 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FullScreenMovieControlMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FullScreenMovieScalingMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AndroidActivityIndicatorStyle 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TouchScreenKeyboardType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RPCMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ConnectionTesterStatus 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NetworkConnectionError 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NetworkDisconnection 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MasterServerEvent 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NetworkStateSynchronization 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NetworkPeerType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NetworkLogLevel 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RPC 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DrivenTransformProperties 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RectTransform+Axis 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RectTransform+Edge 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RectTransform+ReapplyDrivenProperties 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RuntimeUndo 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SerializePrivateVariables 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ISerializationCallbackReceiver 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DisableBatchingType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ProceduralProcessorUsage 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ProceduralCacheSize 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ProceduralLoadingBehavior 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ProceduralPropertyType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ProceduralOutputType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SpriteAlignment 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SpritePackingMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SpritePackingRotation 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SpriteMeshType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WWWTranscoder 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CacheIndex 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.UnityLogWriter 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.UnityString 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WeakListenerBindings 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NetworkReachability 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Application+LogCallback 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.UserAuthorization 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ApplicationInstallMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ApplicationSandboxType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Camera+CameraCallback 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Display+DisplaysUpdatedDelegate 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NotFlashValidatedAttribute 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NotRenamedAttribute 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TouchPhase 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.IMECompositionMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DeviceOrientation 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LocationServiceStatus 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HideFlags 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Transform+Enumerator 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.ADBannerView+BannerFailedToLoadDelegate 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.ADBannerView+BannerWasClickedDelegate 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.ADBannerView+BannerWasLoadedDelegate 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.ADBannerView+Layout 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.ADBannerView+Type 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.ADInterstitialAd+InterstitialWasLoadedDelegate 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.DeviceGeneration 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.ActivityIndicatorStyle 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.CalendarIdentifier 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.CalendarUnit 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOS.NotificationType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SamsungTV+GamePadMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SamsungTV+GestureMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SamsungTV+OpenAPI+OpenAPIServerType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SamsungTV+TouchPadMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Director.DirectorUpdateMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Director.PlayState 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WindZoneMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Advertisements.UnityAdsInternal 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngineInternal.LightmapType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngineInternal.GITextureType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ParticleSystemRenderMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ParticleSystemSimulationSpace 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ParticleSystem+CollisionEvent 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ParticleSystemExtensionsImpl 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.InternalEmitParticleArguments 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ParticleRenderMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RigidbodyConstraints 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ForceMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.JointDriveMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.JointProjectionMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RigidbodyInterpolation 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.PhysicMaterialCombine 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CollisionFlags 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.QueryTriggerInteraction 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ConfigurableJointMotion 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RotationDriveMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CollisionDetectionMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RigidbodyInterpolation2D 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RigidbodySleepMode2D 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CollisionDetectionMode2D 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ForceMode2D 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ColliderErrorState2D 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RigidbodyConstraints2D 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.JointLimitState2D 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.EffectorSelection2D 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.EffectorForceMode2D 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ObstacleAvoidanceType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NavMeshObstacleShape 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NavMeshPathStatus 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.OffMeshLinkType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioSpeakerMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioDataLoadState 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioSettings+AudioConfigurationChangeHandler 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioCompressionFormat 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioClipLoadType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioClip+PCMReaderCallback 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioClip+PCMSetPositionCallback 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioVelocityUpdateMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FFTWindow 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioRolloffMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioSourceCurveType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AudioReverbPreset 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WebCamFlags 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimatorOverrideController+OnOverrideControllerDirtyCallback 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WrapMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimationEventSource 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.PlayMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.QueueMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimationBlendMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimationPlayMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimationCullingType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Animation+Enumerator 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AvatarTarget 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AvatarIKGoal 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AvatarIKHint 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimatorControllerParameterType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TransitionType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimatorRecorderMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimatorCullingMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimatorUpdateMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.BodyDoF 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HeadDoF 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LegDoF 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ArmDoF 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FingerDoF 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DoF 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HumanBodyBones 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HumanBodyPart 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HumanParameter 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Director.IAnimatorControllerPlayable 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DetailRenderMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TerrainChangedFlags 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TerrainRenderFlags 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Terrain+MaterialType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextAlignment 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextAnchor 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.HorizontalWrapMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.VerticalWrapMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Font+FontTextureRebuildCallback 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RenderMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Canvas+WillRenderCanvases 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ICanvasRaycastFilter 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CanvasRenderer+OnRequestRebuild 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.KeyCode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.EventType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.EventModifiers 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ScaleMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUI+ScrollViewState 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUI+WindowFunction 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUILayout+LayoutedWindow 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUILayoutUtility+LayoutCache 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUILayoutEntry 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUILayoutGroup 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUIScrollGroup 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUIAspectSizer 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUIGridSizer 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUIWordWrapSizer 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUILayoutOption+Type 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.PlatformSelection 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUISkin+SkinChangedDelegate 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FontStyle 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ImagePosition 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextClipping 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FocusType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUIClip 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Internal_DrawArguments 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Internal_DrawWithTextSelectionArguments 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Networking.UnityWebRequest+UnityWebRequestError 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Networking.UnityWebRequest+UnityWebRequestMethod 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Experimental.Networking.IMultipartFormSection 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.Match.IResponse 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.Types.NetworkAccessLevel 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.Types.AppID 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.Types.SourceID 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.Types.NetworkID 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.Types.NodeID 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.Match.NetworkMatch+<ProcessMatchResponse>c__Iterator0`1 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.Match.NetworkMatch+ResponseDelegate`1 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.NetworkEventType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.QosType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.NetworkError 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.ReactorModel 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.ConnectionConfigInternal 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.HostTopologyInternal 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Networking.GlobalConfigInternal 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Advertisements.UnityAdsManager 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Analytics.UnityAnalyticsManager 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 SimpleJson.JsonArray 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 SimpleJson.JsonObject 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 SimpleJson.SimpleJson 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 SimpleJson.IJsonSerializerStrategy 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 SimpleJson.PocoJsonSerializerStrategy 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 SimpleJson.Reflection.ReflectionUtils 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.VR.VRDeviceType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.VR.VRNode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Cloud.Service.CloudServiceType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Cloud.Service.CloudEventFlags 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Cloud.Service.CloudServiceConfig 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Cloud.Service.CloudService 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AndroidJavaRunnableProxy 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AndroidReflection 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine._AndroidJNIHelper 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AndroidJNISafe 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnimationInfo 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WrapperlessIcall 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.IL2CPPStructAlignmentAttribute 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AttributeHelperEngine 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MarshallOnlyFirstField 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CastHelper`1 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ClassLibraryInitializer 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SetupCoroutine 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CppIncludeAttribute 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CppDefineAttribute 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CppBodyAttribute 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CppInvokeAttribute 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CppPropertyBodyAttribute 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CppPropertyAttribute 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.WritableAttribute 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RenderingPath 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TransparencySortMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CameraType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ComputeBufferType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LightType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LightRenderMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LightShadows 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FogMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.QualityLevel 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ShadowProjection 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CameraClearFlags 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.DepthTextureMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TexGenMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AnisotropicFiltering 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.BlendWeights 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MeshTopology 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SkinQuality 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ColorSpace 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ScreenOrientation 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.FilterMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextureWrapMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NPOTSupport 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextureFormat 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CubemapFace 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RenderTextureFormat 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RenderTextureReadWrite 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LightmapsMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MaterialGlobalIlluminationFlags 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.OpaqueSortMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.RenderBufferLoadAction 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.RenderBufferStoreAction 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.BlendMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.BlendOp 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.CompareFunction 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.CullMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ColorWriteMask 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.StencilOp 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.AmbientMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.DefaultReflectionMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ReflectionCubemapCompression 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.CameraEvent 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.LightEvent 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.BuiltinRenderTextureType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.PassType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ShadowCastingMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.GraphicsDeviceType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ReflectionProbeUsage 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ReflectionProbeType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ReflectionProbeClearFlags 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ReflectionProbeMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ReflectionProbeRefreshMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Rendering.ReflectionProbeTimeSlicingMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.GUIStateObjects 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.ImplicitUseKindFlags 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 JetBrains.Annotations.ImplicitUseTargetFlags 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SendMouseEvents 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SocialPlatforms.ActivePlatform 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SocialPlatforms.ISocialPlatform 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SocialPlatforms.ILocalUser 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SocialPlatforms.UserState 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SocialPlatforms.IUserProfile 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SocialPlatforms.IAchievement 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SocialPlatforms.IAchievementDescription 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SocialPlatforms.IScore 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SocialPlatforms.UserScope 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SocialPlatforms.TimeScope 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SocialPlatforms.ILeaderboard 生成填充码: 类型是一个接口。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RuntimeInitializeLoadType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ScrollWaitDefinitions 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SliderState 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SliderHandler 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.SystemClock 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextEditor+CharacterType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextEditor+DblClickSnapping 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.TextEditor+TextEditOp 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.StackTraceLogType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.PersistentListenerMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.ArgumentCache 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.BaseInvokableCall 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.InvokableCall 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.InvokableCall`1 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.InvokableCall`2 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.InvokableCall`3 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.InvokableCall`4 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.CachedInvokableCall`1 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityEventCallState 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.PersistentCall 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.PersistentCallGroup 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.InvokableCallList 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.UserAuthorizationDialog 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Assertions.AssertionMessageUtil 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Assertions.Comparers.FloatComparer 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ADBannerView 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.ADInterstitialAd 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneGeneration 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhone 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iOSActivityIndicatorStyle 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneTouch 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneTouchPhase 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneAccelerationEvent 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneOrientation 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneInput 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneScreenOrientation 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneKeyboardType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneKeyboard 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneMovieControlMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneMovieScalingMode 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.iPhoneNetworkReachability 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CalendarIdentifier 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.CalendarUnit 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.LocalNotification 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RemoteNotification 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.RemoteNotificationType 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.NotificationServices 生成填充码: 类型已过时。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Serialization.ListSerializationSurrogate 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Serialization.DictionarySerializationSurrogate`2 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.InternalStaticBatchingUtility 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.MeshSubsetCombineUtility 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngineInternal.APIUpdaterRuntimeServices+<ResolveType>c__AnonStorey6 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngineInternal.TypeInferenceRules 生成填充码: 类型是一个枚举。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngineInternal.NetFxCoreExtensions 生成填充码: 类型对 exported or assembly(UnityEngine.Fakes) 不可见。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AdvertisingIdentifierCallback 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngineInternal.FastCallExceptionHandler 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngineInternal.GetMethodDelegate 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Advertisements.UnityAdsDelegate 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Advertisements.UnityAdsDelegate`2 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.AndroidJavaRunnable 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityAction 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityAction`1 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityAction`2 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityAction`3 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 UnityEngine.Events.UnityAction`4 生成填充码: 类型是一个委托。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 无法为 <PrivateImplementationDetails> 生成填充码: 类型不受支持，因为存在内部限制。
+D:\Users\zlh\Documents\GitHubVisualStudio\VRAssemblingSystem\Fakes\UnityEngine.fakes : warning : 编译失败，将在不使用代码协定的情况下重试
