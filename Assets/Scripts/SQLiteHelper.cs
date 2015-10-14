@@ -8,7 +8,7 @@ using System;
 
 public class SQLiteHelper {
 
-    static string DatabaseName = "/testDatabase.db";
+   // static string DatabaseName = "/testDatabase.db";
 
     static public string queryWithTableName(string tableName)
     {

@@ -10,9 +10,10 @@ public class Mouse : MonoBehaviour {
 	//test update多舒服啊
 	// Update is called once per frame
 	void Update () {
-        if (Input.GetMouseButtonDown(0))
+  /*      if (Input.GetMouseButtonDown(0))
         {
             Ray camRay = Camera.main.ScreenPointToRay(Input.mousePosition);
+            
 
             RaycastHit hit;
             if (Physics.Raycast(camRay, out hit, 999, 1))   //999是最大距离，1表示default层
@@ -43,9 +44,20 @@ public class Mouse : MonoBehaviour {
                 cameraOffset = new Vector3(-5f, 2.5f, 0);
                 detailText.text = null;
             }
-        }
+        }*/
 	
 	}
+    void OnGUI()
+    {
+        if (GUI.Button(new Rect(180, 400, 60, 30), "退出"))
+        {
+            Application.Quit();
+        }
+        if(GUI.Button(new Rect(300,400,60,30),"开始动画演示"))
+        {
+            Application.LoadLevel("Animation");
+        }
+    }
 
 
     void LateUpdate()
