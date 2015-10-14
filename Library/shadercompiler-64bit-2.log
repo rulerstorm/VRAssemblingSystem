@@ -1,6 +1,10 @@
-Base path: C:/Program Files/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-2-4028
+Base path: D:/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-2-3896
 Cmd: getPlatforms
+Cmd: compileSnippet
+  api=0 type=0 insize=13030 outsize=6551 kw=_SUNDISK_HIGH_QUALITY pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=13030 outsize=6 kw=UNITY_COLORSPACE_GAMMA _SUNDISK_NONE pd= ok=1
 Unhandled exception: Readfile from pipe failed. GLE=管道已结束。
 
 
